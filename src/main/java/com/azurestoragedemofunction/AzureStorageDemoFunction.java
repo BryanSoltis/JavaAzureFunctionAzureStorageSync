@@ -1,12 +1,8 @@
 package com.azurestoragedemofunction;
 
-import java.io.File;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.security.InvalidKeyException;
-import java.util.*;
-
-import javax.security.auth.login.Configuration;
 
 import com.microsoft.azure.functions.annotation.*;
 import com.microsoft.azure.functions.*;
